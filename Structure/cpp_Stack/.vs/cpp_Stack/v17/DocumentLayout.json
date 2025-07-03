@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\Structure\\cpp_Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300D86F6-8694-44CA-908D-682AD56A65E3}|cpp_Stack.vcxproj|D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\Structure\\cpp_Stack\\cpp_Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{300D86F6-8694-44CA-908D-682AD56A65E3}|cpp_Stack.vcxproj|solutionrelative:cpp_Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp_Stack.cpp",
+              "DocumentMoniker": "D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\Structure\\cpp_Stack\\cpp_Stack.cpp",
+              "RelativeDocumentMoniker": "cpp_Stack.cpp",
+              "ToolTip": "D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\Structure\\cpp_Stack\\cpp_Stack.cpp",
+              "RelativeToolTip": "cpp_Stack.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T04:19:10.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
