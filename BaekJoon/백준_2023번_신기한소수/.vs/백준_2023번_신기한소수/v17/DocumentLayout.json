@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rudgn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\\uBC31\uC900_2023\uBC88_\uC2E0\uAE30\uD55C\uC18C\uC218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D9517E-04F1-4420-B288-5D3F388F2BE9}|\uBC31\uC900_2023\uBC88_\uC2E0\uAE30\uD55C\uC18C\uC218.vcxproj|C:\\Users\\rudgn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\\uBC31\uC900_2023\uBC88_\uC2E0\uAE30\uD55C\uC18C\uC218\\Sol_2023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D9517E-04F1-4420-B288-5D3F388F2BE9}|\uBC31\uC900_2023\uBC88_\uC2E0\uAE30\uD55C\uC18C\uC218.vcxproj|solutionrelative:Sol_2023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sol_2023.cpp",
+              "DocumentMoniker": "C:\\Users\\rudgn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\\uBC31\uC900_2023\uBC88_\uC2E0\uAE30\uD55C\uC18C\uC218\\Sol_2023.cpp",
+              "RelativeDocumentMoniker": "Sol_2023.cpp",
+              "ToolTip": "C:\\Users\\rudgn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\\uBC31\uC900_2023\uBC88_\uC2E0\uAE30\uD55C\uC18C\uC218\\Sol_2023.cpp",
+              "RelativeToolTip": "Sol_2023.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T03:26:09.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

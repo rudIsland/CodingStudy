@@ -1,0 +1,3 @@
+﻿  DFS.cpp
+C:\Users\rudgn\OneDrive\바탕 화면\알고리즘\DFS연습\DFS.cpp(84,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  DFS연습.vcxproj -> C:\Users\rudgn\OneDrive\바탕 화면\알고리즘\DFS연습\x64\Debug\DFS연습.exe
