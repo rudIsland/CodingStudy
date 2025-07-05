@@ -183,7 +183,7 @@ struct BSTree {
         else if ((delNode->Left == nullptr && delNode->Right != nullptr) ||
             (delNode->Left != nullptr && delNode->Right == nullptr)) 
         {
-            BSNode* child = nullptr; //자식이 될 노드
+            BSNode* child = nullptr; //delNode의 자식이 될 노드
 
             //1. 삭제노드의 자식노드를 child에 임시저장한다.
             if (delNode->Left != nullptr) {
@@ -193,8 +193,8 @@ struct BSTree {
                 child = delNode->Right; //삭제노드(delNode)의 오른쪽자식으로 설정
             }
 
-            //2. 삭제노드부모(delParentNode)에 해당 자식을 링크시킨다. 
-            // 해당 자식을 할아버지노드에 연결하는 꼴
+            //2. 삭제노드부모(delParentNode)에 delNode의 자식을 링크시킨다. 
+            // 손자노드를 할아버지노드에 연결하는 형태이다.
             if (delParentNode != nullptr) {
                 if (delParentNode->Left == delNode) //삭제노드부모의 왼쪽자식이 삭제노드일경우 거기에 링크
                 {
@@ -224,7 +224,7 @@ struct BSTree {
                 MaxNode = MaxNode->Right; //가장 큰값의 노드를 오른쪽 노드로 설정
             }
 
-            //2. 가장 큰 노드(MaxNode)를 원래 자리에서 제거
+            //2. MaxNode의 자식노드를 MaxNode의 부모노드로 링크
             if (MaxParentNode->Left == MaxNode) 
             {
                 MaxParentNode->Left = MaxNode->Left;
@@ -245,7 +245,7 @@ struct BSTree {
                 root = MaxNode;
             }
             else 
-            {   //삭제할부모노드의 왼쪽이 삭제할 노드면 삭제할 노드에 가장 큰 값을 붙인다.
+            {   //delParentNode의 Left가 delNode면 그곳에 MaxNode를 붙인다.
                 //기존 delNode의 자리를 MaxNode가 들어가는 것
                 if (delParentNode->Left == delNode) 
                 {
@@ -309,4 +309,3 @@ int main()
 
     return 0;
 }
-
