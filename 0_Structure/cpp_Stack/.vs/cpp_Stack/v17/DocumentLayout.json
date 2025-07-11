@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\0_Structure\\cpp_Stack\\",
+  "WorkspaceRootPath": "D:\\GitRepo\\CodingStudy_Repo\\0_Structure\\cpp_Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300D86F6-8694-44CA-908D-682AD56A65E3}|cpp_Stack.vcxproj|D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\0_Structure\\cpp_Stack\\cpp_Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{300D86F6-8694-44CA-908D-682AD56A65E3}|cpp_Stack.vcxproj|D:\\GitRepo\\CodingStudy_Repo\\0_Structure\\cpp_Stack\\cpp_Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{300D86F6-8694-44CA-908D-682AD56A65E3}|cpp_Stack.vcxproj|solutionrelative:cpp_Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp_Stack.cpp",
-              "DocumentMoniker": "D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\0_Structure\\cpp_Stack\\cpp_Stack.cpp",
+              "DocumentMoniker": "D:\\GitRepo\\CodingStudy_Repo\\0_Structure\\cpp_Stack\\cpp_Stack.cpp",
               "RelativeDocumentMoniker": "cpp_Stack.cpp",
-              "ToolTip": "D:\\GitRepo\\CodingStudyRepo\\CodingStudy\\0_Structure\\cpp_Stack\\cpp_Stack.cpp",
+              "ToolTip": "D:\\GitRepo\\CodingStudy_Repo\\0_Structure\\cpp_Stack\\cpp_Stack.cpp",
               "RelativeToolTip": "cpp_Stack.cpp",
               "ViewState": "AQIAAD8AAAAAAAAAAAAYwEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
